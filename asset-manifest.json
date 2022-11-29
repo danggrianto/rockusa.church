@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e235dfa9.js",
-    "static/js/787.77d8af2e.chunk.js": "/static/js/787.77d8af2e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e235dfa9.js.map": "/static/js/main.e235dfa9.js.map",
-    "787.77d8af2e.chunk.js.map": "/static/js/787.77d8af2e.chunk.js.map"
+    "main.css": "/rockusa.church/static/css/main.073c9b0a.css",
+    "main.js": "/rockusa.church/static/js/main.db88c462.js",
+    "static/js/787.77d8af2e.chunk.js": "/rockusa.church/static/js/787.77d8af2e.chunk.js",
+    "static/media/logo.svg": "/rockusa.church/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rockusa.church/index.html",
+    "main.073c9b0a.css.map": "/rockusa.church/static/css/main.073c9b0a.css.map",
+    "main.db88c462.js.map": "/rockusa.church/static/js/main.db88c462.js.map",
+    "787.77d8af2e.chunk.js.map": "/rockusa.church/static/js/787.77d8af2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e235dfa9.js"
+    "static/js/main.db88c462.js"
   ]
 }
