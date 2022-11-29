@@ -11,3 +11,12 @@ Running Server
 ```
 yarn start
 ```
+
+## Deploying
+
+Deployment is on github pages.
+
+```
+yarn build
+yarn deploy
+```
